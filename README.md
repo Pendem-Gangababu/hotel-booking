@@ -7,4 +7,4 @@ By utilizing the power of MERN stack, this project showcases the ability to buil
 
 Feel free to explore, contribute, and adapt this project for your specific needs. Whether you're a beginner or an experienced developer, this repository serves as a valuable resource for learning and implementing MERN stack concepts in a real-world application.
 
-Get started with MERN-Stack Hotel App and revolutionize the hotel booking experience! 💪💻
+Get started with MERN-Stack Hotel App and revolutionize the hotel booking experience! 
